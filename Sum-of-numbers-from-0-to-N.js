@@ -32,3 +32,5 @@ let SequenceSum = (function() {
   };
   return SequenceSum;
 })();
+
+// or
